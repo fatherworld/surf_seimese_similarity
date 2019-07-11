@@ -1,0 +1,2 @@
+# surf_seimese_similarity
+利用surf进行图像配准,再根据seimese孪生网络模型输出配准后的测试样本的相似度
